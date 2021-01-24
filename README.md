@@ -1,3 +1,5 @@
+[![Adham's github stats](https://github-readme-stats.vercel.app/api?username=AdhamKhalifa)](https://github.com/AdhamKhalifa/github-readme-stats)
+
 # COVID-19 Plasma
 
 ## Interactive map to connect COVID-19 patients with plasma donors
